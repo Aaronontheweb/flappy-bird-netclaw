@@ -14,7 +14,7 @@ This entire game — HTML, CSS, JavaScript, and even the gameplay video — was 
 
 ## Play
 
-[Play the game →](https://aaronstannard.github.io/flappy-bird-netclaw/)
+[Play the game →](https://aaronstannard.com/flappy-bird-netclaw/)
 
 ## About NetClaw
 
